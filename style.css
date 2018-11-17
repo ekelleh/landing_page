@@ -1,0 +1,124 @@
+body{
+  background: rgb(244,244,244);
+  color: #1f4287;
+  font-size: 20px;
+  font-family: 'Amatic SC', cursive;;
+  text-align: center;
+}
+h1 {
+  font-family: 'Amatic SC', cursive;;
+  color: #232C33;
+  font-weight: bold;
+  font-size: 100px;
+}
+h2 {
+  font-family: 'Amatic SC', cursive;;
+  color: #4C6663;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h3 {
+  font-family: 'Amatic SC', cursive;;
+  color: #9F9F92;
+  font-weight: lighter;
+  font-size: 40px;
+   text-shadow: 1px 1px 5px black;
+}
+a {
+  font-family: 'Amatic SC', cursive;;
+  color: #CDD3CE;
+}
+p {
+	color: #232C33;
+	font-style: 20px;
+}
+a:hover {
+  text-decoration: none;
+  color: #21e6c1;
+  font-size: 30px;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1542323789-2bff6a0d95df?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e84f7a611351db52f4efe9f66923643e&auto=format&fit=crop&w=1353&q=80");
+  background-size: cover;
+  padding: 150px;
+  color: #071e3d;
+  text-shadow: 1px 1px 5px white;
+}
+#banner h1 {
+  color: #232C33;
+  font-size: 60px;
+}
+#banner p {
+  color: #232C33;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  width: 100%;
+  text-shadow: 1px 1px 5px #CDD3CE;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+#nav-bar {
+	display: flex;
+	height: 45px;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px;
+}
+.nav-bar-links {
+	font-size: 20px;
+	text-decoration: none;
+	color: #4C6663;
+	padding: 10px;
+}
+.nav-bar-links a:hover {
+	color: #21e6c1;
+	font-size: 30px;
+
+}
+.logo i {
+	font-size: 35px;
+	color: #232C33;
+}	
+.card {
+	text-align: center;
+	background-color: #CDD3CE;
+	padding: 10px;
+	height: 400px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 1px solid #4C6663;
+
+}
+
+.card-container {
+	margin: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
